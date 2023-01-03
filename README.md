@@ -14,6 +14,7 @@ Welcome to my Github, Here you'll find many project's, repositorie's
 
 ## 🛠 Skills(Languages, Frameworks, Tools)
 Dart, Flutter, Python, Java, Javascript, HTML, CSS, PHP, Laravel, C++, Swift, Android, IOS, Intelliji, Eclipse, Pycharm, PhpStorm, X-code, VS Code, Android Studio, Postman
+<br>
 <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="Dart" align="center" width="50px"></img>
 <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python" align="center" width="50px"></img>
@@ -41,17 +42,18 @@ Dart, Flutter, Python, Java, Javascript, HTML, CSS, PHP, Laravel, C++, Swift, An
 ## Features
 
 - Handle screens in flutter
+- Convert Apps for all frameworks
 - Create Rest API or GraphQL
 - Create dashboard via Laravel
 - Analyse application's via SOLID principles, & Agile Methodology
 - State Managements like: BLOC Architecture, GetX, Riverpood
-- Using MVVM in Flutter & MVC in Laravel  
+- Using MVVM in Flutter & MVC in Laravel
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaleel-mahdi-72892123a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khlilmhdi)
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)]([https://twitter.com/](https://www.facebook.com/profile.php?id=100080928924264))
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080928924264)
 [![Instegram](https://img.shields.io/badge/instagram-5e35b1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khlilmhdy/?fbclid=IwAR0Y--5OPweFTBn_Nw0fM3a22RgqDS3vXizNX51q3Ml3Q4doviIFVYyDzsA)
 
 
