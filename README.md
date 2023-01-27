@@ -25,14 +25,14 @@ Dart, Flutter, Python, Java, Javascript, HTML, CSS, PHP, Laravel, C++, Swift, An
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" alt="Laravel" align="center" width="50px"></img>
 <img src="https://isocpp.org/files/img/cpp_logo.png" alt="C++" align="center" width="50px"></img>
-<img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="swift" align="center" width="50px"></img>
+<!-- <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="swift" align="center" width="50px"></img> -->
 <img src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png" alt="android" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/A/apple-logo-E3DBF3AE34-seeklogo.com.png" alt="ios" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intellij" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="eclipse" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="Pycharm" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" alt="Phpstorm" align="center" width="50px"></img>
-<img src="https://seeklogo.com/images/A/apple-ios-app-store-logo-C39E303657-seeklogo.com.png" alt="x-code" align="center" width="50px"></img>
+<!-- <img src="https://seeklogo.com/images/A/apple-ios-app-store-logo-C39E303657-seeklogo.com.png" alt="x-code" align="center" width="50px"></img> -->
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" alt="android studio" align="center" width="50px"></img>
 <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" align="center" width="50px"></img>
