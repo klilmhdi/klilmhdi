@@ -2,13 +2,13 @@
 Welcome to my Github, Here you'll find many project's, repositorie's
 
 ## 🚀 About Me
-👩‍💻 I'm a Mobile developer full stack via (Flutter + Laravel)
+👩‍💻 I'm a Mobile apps developer via Flutter
 
-🧠 I'm currently learning Flutter, Laravel, GraphQL, RestAPI
+🧠 I'm currently learning Flutter, Laravel, Django, GraphQL, & RestAPI
 
-💬 Ask me about Programming Languages, Ui Ux
+💬 Ask me about Programming Languages, & Ui Ux
 
-⚡️ My hobbies is : Listen to musics, Reading books, Write repots & sheets, Go to gym
+⚡️ My hobbies is : Listen to musics, Read books, Write repots & sheets, & Go to the gym
 
 
 
@@ -42,13 +42,13 @@ Dart, Flutter, Python, Django, Java, Javascript, HTML, CSS, PHP, Laravel, C++, S
 
 ## Features
 
-- Handle screens in flutter
+- Handle screens in flutter using Material 3 rolls
 - Convert Apps for all frameworks
 - Create Rest API or GraphQL
 - Create dashboard via Laravel
 - Analyse application's via SOLID principles, & Agile Methodology
 - State Managements like: BLOC Architecture, GetX, Riverpood
-- Using MVVM in Flutter & MVC in Laravel
+- Using MVVM in Flutter
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-d32f2f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khlilmhdi-2c480.web.app/)
@@ -63,4 +63,4 @@ Dart, Flutter, Python, Django, Java, Javascript, HTML, CSS, PHP, Laravel, C++, S
 
 ## Feedback
 
-If you have any feedback, please reach out to me at khlilmhdi02@gmail.com
+If you have any feedback, please reach out to me at khaleelmhdi@gmail.com
